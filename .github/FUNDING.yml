@@ -1,0 +1,10 @@
+# GitHub Sponsors 配置
+# 这会在仓库页面显示 "Sponsor" 按钮
+
+github: [niunaiyi]  # 替换为您的 GitHub 用户名
+
+# 可选：添加其他平台
+# patreon: niunaiyi
+# ko_fi: niunaiyi
+# custom: ["https://www.paypal.me/niunaiyi", "https://buymeacoffee.com/niunaiyi"]
+
