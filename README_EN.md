@@ -10,6 +10,8 @@
 
 Android app designed for self-hosted media servers, with perfect support for **Radarr**, **Sonarr**, and **Whisparr**.
 
+**Keywords**: Android app | Radarr client | Sonarr client | Whisparr client | Servarr mobile | Media server management | Movie manager | TV show manager | Self-hosted | Plex alternative | Jellyfin management tool
+
 [📥 Download Now](https://github.com/niunaiyi/yesseerr/releases/latest) | [🐛 Report Issues](https://github.com/niunaiyi/yesseerr/issues) | [💝 Support Development](https://github.com/sponsors/niunaiyi)
 
 [🇨🇳 中文文档](README.md)

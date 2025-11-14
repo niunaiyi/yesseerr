@@ -10,6 +10,8 @@
 
 专为自托管媒体服务器打造的 Android 应用，完美支持 **Radarr**、**Sonarr** 和 **Whisparr**。
 
+**关键词**: Android 应用 | Radarr 客户端 | Sonarr 客户端 | Whisparr 客户端 | Servarr 移动端 | 媒体服务器管理 | 电影管理 | 电视剧管理 | 自托管 | Plex 替代 | Jellyfin 管理工具
+
 [📥 立即下载](https://github.com/niunaiyi/yesseerr/releases/latest) | [🐛 报告问题](https://github.com/niunaiyi/yesseerr/issues) | [💝 支持开发](https://github.com/sponsors/niunaiyi)
 
 ---
