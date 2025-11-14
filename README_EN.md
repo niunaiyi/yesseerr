@@ -108,13 +108,6 @@ English | 中文 | 日本語 | 한국어 | Español | Français | Deutsch | Ру
 
 ## 🚀 Quick Start
 
-### Get TMDB API Key (Required)
-
-1. Register for a [TMDB account](https://www.themoviedb.org/signup)
-2. Go to [API Settings](https://www.themoviedb.org/settings/api)
-3. Apply for API Key (free)
-4. Enter API Key in the app
-
 ### Configure Radarr (Optional)
 
 1. Open your Radarr Web interface

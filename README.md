@@ -105,13 +105,6 @@ Yesseerr 是**完全免费**的项目！如果觉得有帮助，可以：
 
 ## 🚀 快速开始
 
-### 获取 TMDB API Key（必需）
-
-1. 注册 [TMDB 账号](https://www.themoviedb.org/signup)
-2. 前往 [API 设置](https://www.themoviedb.org/settings/api)
-3. 申请 API Key（免费）
-4. 在应用中填入 API Key
-
 ### 配置 Radarr（可选）
 
 1. 打开您的 Radarr Web 界面
