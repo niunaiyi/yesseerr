@@ -43,6 +43,11 @@ Yesseerr is a **completely free** project! If you find it helpful, you can:
 
 ## ✨ Key Features
 
+### ⭐ Smart Status Recognition
+- **Existence Indicator**: If media content already exists in your library, it will show an existence marker for quick identification
+- **Quick Add Action**: If media content is not in your library, it will display an add-to-library action marker for one-click adding
+- Smart recognition, no manual checking needed, improving management efficiency
+
 ### 🎬 Movie Management
 - Seamless integration with **Radarr**
 - Browse multiple categories (Popular, Trending, Top Rated, etc.)
