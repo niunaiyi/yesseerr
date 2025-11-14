@@ -66,7 +66,7 @@ Yesseerr is a **completely free** project! If you find it helpful, you can:
 - Responsive layout
 
 ### 🌐 Multi-language Support
-English | 中文 | 日本語 | 한국어 | Español | Français | Deutsch | Русский
+English | 中文 | 日本語 | 한국어
 
 ---
 

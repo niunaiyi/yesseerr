@@ -63,7 +63,7 @@ Yesseerr 是**完全免费**的项目！如果觉得有帮助，可以：
 - 响应式布局
 
 ### 🌐 多语言支持
-中文 | English | 日本語 | 한국어 | Español | Français | Deutsch | Русский
+中文 | English | 日本語 | 한국어
 
 ---
 
