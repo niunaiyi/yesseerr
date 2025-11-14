@@ -81,31 +81,6 @@ English | 中文 | 日本語 | 한국어 | Español | Français | Deutsch | Ру
 
 ---
 
-## 📥 Download & Installation
-
-### System Requirements
-- **Android 8.0 (API 26)** or higher
-- Internet connection
-- Self-hosted Radarr/Sonarr/Whisparr servers
-
-### Installation Steps
-
-1. **Download APK**
-   - Go to [Releases page](https://github.com/niunaiyi/yesseerr/releases)
-   - Download the latest `Yesseerr-vX.X.X.apk` file
-
-2. **Install App**
-   - Open the APK file on your Android device
-   - Allow installation from unknown sources (if prompted)
-   - Click Install
-
-3. **Configure Servers**
-   - Open the app and go to "Settings"
-   - Fill in your server addresses and API keys
-   - Start using!
-
----
-
 ## 🚀 Quick Start
 
 ### Configure Radarr (Optional)

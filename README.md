@@ -78,31 +78,6 @@ Yesseerr 是**完全免费**的项目！如果觉得有帮助，可以：
 
 ---
 
-## 📥 下载安装
-
-### 系统要求
-- **Android 8.0 (API 26)** 或更高版本
-- 网络连接
-- 自托管的 Radarr/Sonarr/Whisparr 服务器
-
-### 安装步骤
-
-1. **下载 APK**
-   - 前往 [Releases 页面](https://github.com/niunaiyi/yesseerr/releases)
-   - 下载最新的 `Yesseerr-vX.X.X.apk` 文件
-
-2. **安装应用**
-   - 在 Android 设备上打开 APK 文件
-   - 允许安装未知来源应用（如提示）
-   - 点击安装
-
-3. **配置服务器**
-   - 打开应用，前往"设置"
-   - 填写您的服务器地址和 API 密钥
-   - 开始使用！
-
----
-
 ## 🚀 快速开始
 
 ### 配置 Radarr（可选）
