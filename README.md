@@ -10,13 +10,13 @@
 
 专为自托管媒体服务器打造的 Android 应用，完美支持 **Radarr**、**Sonarr** 和 **Whisparr**。
 
-[📥 立即下载](https://github.com/niunaiyi/yesseerr/releases/latest) | [📖 发布说明](RELEASE_NOTES.md) | [🐛 报告问题](https://github.com/niunaiyi/yesseerr/issues) | [💝 支持开发](https://github.com/sponsors/niunaiyi)
+[📥 立即下载](https://github.com/niunaiyi/yesseerr/releases/latest) | [🐛 报告问题](https://github.com/niunaiyi/yesseerr/issues) | [💝 支持开发](https://github.com/sponsors/niunaiyi)
 
 ---
 
 ## 💝 支持 Yesseerr
 
-Yesseerr 是**完全免费**的开源项目！如果觉得有帮助，可以：
+Yesseerr 是**完全免费**的项目！如果觉得有帮助，可以：
 
 - ⭐ **[给项目一个 Star](https://github.com/niunaiyi/yesseerr)** - 最简单的支持方式
 - 💰 **[成为赞助者](https://github.com/sponsors/niunaiyi)** - 支持持续开发
@@ -130,75 +130,6 @@ Yesseerr 是**完全免费**的开源项目！如果觉得有帮助，可以：
 
 ---
 
-## 🛠️ 技术栈
-
-- **Language**: Kotlin
-- **UI Framework**: Jetpack Compose
-- **Architecture**: MVVM + Repository Pattern
-- **DI**: Hilt
-- **Networking**: Retrofit + OkHttp
-- **Image Loading**: Coil
-- **Pagination**: Paging 3
-- **Data Persistence**: DataStore
-- **Serialization**: Kotlinx Serialization
-
----
-
-### 环境要求
-
-- Android Studio Hedgehog (2023.1.1) 或更高
-- JDK 17 或更高
-- Android SDK (compileSdk 36)
-
-### 构建步骤
-
-1. **克隆仓库**
-   ```bash
-   git clone https://github.com/niunaiyi/yesseerr.git
-   cd yesseerr
-   ```
-
-2. **创建 local.properties**
-   ```properties
-   # local.properties
-   sdk.dir=C\:\\Users\\niunaiyi\\AppData\\Local\\Android\\Sdk
-   
-   # API 配置（可选，用于调试）
-   TMDB_KEY=your_tmdb_api_key
-   STASHDB_KEY=your_stashdb_api_key
-   ```
-
-3. **构建 Debug 版本**
-   ```bash
-   ./gradlew assembleDebug
-   ```
-
-4. **构建 Release 版本**
-   ```bash
-   # 需要先配置签名密钥
-   ./gradlew assembleRelease
-   ```
-
-APK 输出位置：`app/build/outputs/apk/`
-
----
-
-### 如何贡献
-
-1. Fork 本仓库
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
-### 代码规范
-
-- 遵循 [Kotlin 编码规范](https://kotlinlang.org/docs/coding-conventions.html)
-- 使用 Jetpack Compose 最佳实践
-- 添加必要的注释和文档
-
----
-
 ## 📝 待办事项
 
 - [ ] 支持批量添加电影/电视剧
@@ -231,7 +162,7 @@ A: 否，所有配置都存储在本地，应用直连您的服务器。
 A: Android 8.0 (Oreo) 及以上版本。
 
 ### Q: 应用是否开源？
-A: 是的，完全开源，代码可在 GitHub 上查看。
+A: 本应用为专有软件，源代码不公开。详见 [LICENSE](LICENSE) 文件。
 
 ### Q: 如何报告 Bug？
 A: 请在 [GitHub Issues](https://github.com/niunaiyi/yesseerr/issues) 提交问题。
@@ -240,19 +171,13 @@ A: 请在 [GitHub Issues](https://github.com/niunaiyi/yesseerr/issues) 提交问
 
 ## 📄 许可证
 
-本项目采用 MIT License 许可。详见 [LICENSE](LICENSE) 文件。
+© 2025 Yesseerr. All rights reserved.
+
+本软件为专有软件，未经授权不得复制或修改。详见 [LICENSE](LICENSE) 文件。
 
 ---
 
 ## 🙏 致谢
-
-### 使用的开源项目
-
-- [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- [Material Design 3](https://m3.material.io/)
-- [Retrofit](https://square.github.io/retrofit/)
-- [Coil](https://coil-kt.github.io/coil/)
-- [Hilt](https://dagger.dev/hilt/)
 
 ### 集成的服务
 
