@@ -70,6 +70,17 @@ English | 中文 | 日本語 | 한국어 | Español | Français | Deutsch | Ру
 
 ---
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshots-0.jpg" width="200" alt="Screenshot 1" />
+  <img src="screenshots/screenshots-1.jpg" width="200" alt="Screenshot 2" />
+  <img src="screenshots/screenshots-2.jpg" width="200" alt="Screenshot 3" />
+  <img src="screenshots/screenshots-3.png" width="200" alt="Screenshot 4" />
+</p>
+
+---
+
 ## 📥 Download & Installation
 
 ### System Requirements
